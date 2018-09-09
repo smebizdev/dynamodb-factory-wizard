@@ -1,0 +1,24 @@
+{
+  "name": "dynamodb-factory-wizard",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SMEBiz",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smebizdev/dynamodb-factory-wizard.git"
+  },
+  "devDependencies": {
+    "eslint": "^5.5.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.311.0",
+    "chalk": "^2.4.1"
+  }
+}
